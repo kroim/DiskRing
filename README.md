@@ -1,1 +1,3 @@
 # DiskRing
+
+JavaFx DiskRing Program
